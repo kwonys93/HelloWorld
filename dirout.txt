@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2031-1E8D
+
+ Directory of C:\ZOWE\project1\javapr1
+
+02/16/2020  09:24 AM    <DIR>          .
+02/16/2020  09:24 AM    <DIR>          ..
+02/16/2020  09:24 AM                 0 dirout.txt
+02/16/2020  09:10 AM               671 Hello.class
+02/16/2020  08:46 AM               152 Hello.java
+               3 File(s)            823 bytes
+               2 Dir(s)  214,886,023,168 bytes free
